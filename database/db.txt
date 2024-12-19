@@ -1,0 +1,7 @@
+3
+"matar"
+"matar un dragón"
+"hola"
+"tengo diarrea"
+"acabar"
+"hay que acabar el programa"
